@@ -50,7 +50,7 @@ Inside VirtualBox:
 
 1. Selected Kali VM, went to the Settings option then the Network tab
 2. Under Adapter 1, attached to the **Internal Network**
-3. Name set as **IDS-LAB**
+3. Name set as **IDS_LAB**
 
 The same process was repeated for the Windows VM.
 
