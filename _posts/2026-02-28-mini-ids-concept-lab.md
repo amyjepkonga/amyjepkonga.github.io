@@ -1,7 +1,7 @@
 ---
 title: "Mini IDS Concept Lab: Building an Anomaly-Based Detection System"
 date: 2026-02-28 09:00:00 +0300
-categories: [Cybersecurity, Lab Tutorial]
+categories: [Cybersecurity, Lab Tutorial, Network Security]
 tags: [ids, wireshark, network-security, kali-linux, virtualbox]
 image:
   path: /assets/img/ids-concept-lab/12-ids-avatar.jpg
